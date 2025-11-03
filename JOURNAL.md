@@ -14,3 +14,35 @@
 
   
 
+## 11/3/2025 - Making Drives  
+
+## The hardest part
+
+> Honestly, that was the worst part.  
+> I really wanted to do it right — respecting both the material and the money.
+
+---
+
+## Considering the options
+
+I even thought about buying a set of these shafts on AliExpress, but it was just too expensive.
+
+---
+
+## Figuring out the power
+
+The real challenge was figuring out how the shaft should be powered.  
+All the online listings showed shafts with bearings that weren’t suitable for this setup.
+
+---
+
+## Time and effort
+
+It took me over two days, spending about four hours every day, just to understand what was going on, **even my dad helped me**
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--968826e793bff1d58614fe20ca94ba79655d5c00/image.png)
+
+> BTW, let me know how you like my new post format. I decided to use the features and play around with them.
+  
+
