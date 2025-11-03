@@ -14,7 +14,7 @@
 
   
 
-## 11/3/2025 - Making Drives  
+## 11/3/2025 8 PM - Making Drives  
 
 ## The hardest part
 
@@ -44,5 +44,22 @@ It took me over two days, spending about four hours every day, just to understan
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--968826e793bff1d58614fe20ca94ba79655d5c00/image.png)
 
 > BTW, let me know how you like my new post format. I decided to use the features and play around with them.
+  
+
+## 11/3/2025 10 PM - Contact diagram  
+
+## Contact diagram
+
+Honestly, this was the easiest part — and I really enjoyed it.  
+It took me about half an hour, as I wanted to make sure to avoid any short circuits.  
+
+In the next step, I’ll move on to programming the **PLC controller** using **LAD (Ladder Logic)**.
+
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1MywicHVyIjoiYmxvYl9pZCJ9fQ==--cf040befdb8faf37997f630c92b7528f1915721d/image.png)
+
+
   
 
