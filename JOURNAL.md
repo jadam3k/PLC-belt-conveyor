@@ -74,6 +74,8 @@ In the next step, I’ll move on to programming the **PLC controller** using **L
 I’m learning automation right now — I’m studying to become an automation technician — so this kind of stuff is part of what I do.  
 It turned out to be quite easy for a 16-year-old. The whole thing, including debugging, took me about an hour.
 
+**Now I'm moving on to creating an interesting structure.**
+
 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8db2f99b5f5a3659d6f80ad8ed8b77ca4de27207/image.png)
