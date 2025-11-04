@@ -63,3 +63,21 @@ In the next step, I’ll move on to programming the **PLC controller** using **L
 
   
 
+## 11/4/2025 - Programming PLC in LAD  
+
+
+## A Productive Day with PLC Programming
+
+> Today I spent some time working on a PLC controller in CODESYS using the LAD (Ladder Diagram) language.  
+> It was actually pretty fun.
+
+I’m learning automation right now — I’m studying to become an automation technician — so this kind of stuff is part of what I do.  
+It turned out to be quite easy for a 16-year-old. The whole thing, including debugging, took me about an hour.
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8db2f99b5f5a3659d6f80ad8ed8b77ca4de27207/image.png)
+
+
+  
+
