@@ -63,7 +63,7 @@ In the next step, I’ll move on to programming the **PLC controller** using **L
 
   
 
-## 11/4/2025 - Programming PLC in LAD  
+## 11/4/2025 7 PM - Programming PLC in LAD  
 
 
 ## A Productive Day with PLC Programming
@@ -80,6 +80,24 @@ It turned out to be quite easy for a 16-year-old. The whole thing, including deb
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8db2f99b5f5a3659d6f80ad8ed8b77ca4de27207/image.png)
 
+
+  
+
+## 11/4/2025 11 PM - designing support for pulleys  
+
+
+## Working on the Linear Pulleys
+
+> I’m now working on the linear pulleys and their brackets.  
+> The brackets will be mounted on my 2020 aluminum profiles, which will serve as the frame.
+
+It didn’t take long — after about an hour, everything was set up pretty smoothly.  
+Quick and easy, just the way I like it.
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a3b23f9af218178de45d2924ec225e049dee444/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--950b5e6b47c4c44d13f1ea18d2a2941ebd80c68a/image.png)
 
   
 
