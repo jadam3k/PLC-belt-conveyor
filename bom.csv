@@ -1,0 +1,25 @@
+Component,Quantity,Unit Price (USD),Total Price (USD)
+"Power cable with plug 230 V, 2 m, 3×2.5 mm²",1,70.88/3.69,=70.88/3.69
+"3×25 cm DIN rail for panel mounting 35 mm, 7.5 mm, 250 mm",1,29.00/3.69,=29.00/3.69
+"Indicator light XBS 24 V AC/DC green LED AD22-GREEN24",1,3.60/3.69,=3.60/3.69
+"Control push-button STOP red EA42 1NC",1,4.71/3.69,=4.71/3.69
+"Control push-button START green EA31 1NO",2,9.42/3.69,=9.42/3.69
+"Circuit breaker 1P B6 Noark Ex9BN - 100004",1,9.74/3.69,=9.74/3.69
+"DC fuse 6 A",1,48.00/3.69,=48.00/3.69
+"Electromagnetic relay 24 V AC/DC PEM-02/024 ZAMEL",1,64.99/3.69,=64.99/3.69
+"Single-core cable LGY 1 1 mm² violet 1 m",1,1.50/3.69,=1.50/3.69
+"Single-core cable LGY 1 1 mm² red 1 m",1,3.00/3.69,=3.00/3.69
+"Single-core cable LGY 1 1 mm² black 1 m",1,3.00/3.69,=3.00/3.69
+"PVC belt conveyor width 150 mm length 1000 mm",1,139.90/3.69,=139.90/3.69
+"M5 screws (10 pcs)",1,13.71/3.69,=13.71/3.69
+"2020 aluminium black profile 4 m",1,204.00/3.69,=204.00/3.69
+"M5 screws 18 mm (3 pcs)",1,19.77/3.69,=19.77/3.69
+"PT1.5 grey terminal strip (10 pcs)",1,21.00/3.69,=21.00/3.69
+"20-M5 black brackets (2 pcs)",1,15.00/3.69,=15.00/3.69
+"M5 2020 nuts (50 pcs)",1,12.00/3.69,=12.00/3.69
+"Bearing 6804 (4 pcs)",1,10.00/3.69,=10.00/3.69
+"Nema 23 stepper motor",1,111.84/3.69,=111.84/3.69
+"TB6600 9-42 V driver power supply",1,36.00/3.69,=36.00/3.69
+"Siemens Logo 12/24RC 6ED1 052-1MD00-0BA6",1,49.00/3.69* (Euro converted separately),=49.00* (see note)
+,,,
+, ,TOTAL USD,=SUM(C2:C22)
