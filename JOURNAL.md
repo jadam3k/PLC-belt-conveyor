@@ -101,7 +101,7 @@ Quick and easy, just the way I like it.
 
   
 
-## 11/5/2025 - Making 3D view of the Conveyor  
+## 11/5/2025 7 PM - Making 3D view of the Conveyor  
 
 Today I worked on the overall look of the entire conveyor — basically the **3D model of the whole machine (without the belt)** (no AI usage) 🔥.  
 It turned out really well — I’m proud of myself, and I can feel that the project is almost finished.
@@ -115,5 +115,45 @@ Not sure why I feel that way... ;/
 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fdb0d8c5136d92f2975ac9fe8d1c8f3b83416615/image.png)
+  
+
+## 11/5/2025 8 PM - Final Touches and Hoping for Approval  
+
+## Final Touches and Hoping for Approval
+
+> Last tweaks, adding the **BOM**, and praying for the project to be accepted.  
+> I’ve been working on the final adjustments, prepared the **Bill of Materials**, and below I’m adding a small **FAQ** explaining a few things.
+
+Overall, I consider this project **very good**.  
+It might look simple at first glance, but it actually took me a lot of time — I didn’t want to rely on expensive, ready-made solutions.  
+
+This project will really help me at school, because as I mentioned before in earlier posts, I’m still a student who’s really interested in **industrial automation**.  
+A project like this is a perfect example of that passion.
+
+---
+
+### FAQ
+
+**Why did you spend so much money, and why use such an expensive PLC controller?**  
+I really want to learn about **PLC controllers** and **automation**, and this project felt like the perfect opportunity to do that.  
+I’m very grateful to the whole **Blueprint project** for giving me this chance and for letting people see my work.  
+I tried to keep the costs as low as possible — I even bought **used parts**, like a second-hand PLC from eBay.  
+Still, I wanted **stability and reliability**, and the **Siemens LOGO!** controller will definitely help me enter the world of **industrial automation**, which I’m eager to keep learning about.
+
+---
+
+**Why did you spend so little time on it?**  
+Actually, I was thinking about the project all the time — even while at school.  
+In total, I estimate around **50–60 hours of work**.  
+My teachers were probably getting tired of me sketching circuits, mechanisms, and doing all the calculations needed to make sure everything would work properly.  
+
+---
+
+> I’m really thankful for this experience.  
+> It was a lot of work, but I’m proud of it. 😉🔥
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--58d75c00098e1aa8c8b30645e1ac044317011262/image.png)
   
 
