@@ -101,3 +101,19 @@ Quick and easy, just the way I like it.
 
   
 
+## 11/5/2025 - Making 3D view of the Conveyor  
+
+Today I worked on the overall look of the entire conveyor — basically the **3D model of the whole machine (without the belt)** (no AI usage) 🔥.  
+It turned out really well — I’m proud of myself, and I can feel that the project is almost finished.
+
+What’s left is optionally adding a **3D model of my electrical cabinet**, which will include the **PLC, relays, power supply**, and all the **necessary components and fuses**.  
+
+I’d say the work went great — it took me about **10 hours**, and I’m genuinely happy with the progress I’m making.  
+Still, I can’t help but worry a bit that my project might not get accepted.  
+Not sure why I feel that way... ;/
+
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fdb0d8c5136d92f2975ac9fe8d1c8f3b83416615/image.png)
+  
+
