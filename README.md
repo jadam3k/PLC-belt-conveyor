@@ -59,6 +59,9 @@ For now, I’ve included:
 | **TOTAL** |  |  | **285.18 USD** |
 
 
+## + filament for the 3D printer which I have to settle with my school
+
+
 ---
 
 ## Acknowledgements
