@@ -157,3 +157,10 @@ My teachers were probably getting tired of me sketching circuits, mechanisms, an
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--58d75c00098e1aa8c8b30645e1ac044317011262/image.png)
   
 
+## 11/9/2025 - Changes to the project  
+
+Since my project wasn't eligible for funding, I decided to pay for it myself. I changed some parts and 3D prints to make things easier, and I'll also buy a different PLC.
+
+![Dodaj nagłówek](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8f42e3c302e047c2ee2ff7400996a2e8593c4fa/Dodaj%20nag%C5%82%C3%B3wek.png)
+  
+
